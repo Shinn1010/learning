@@ -154,42 +154,6 @@
 			<td>service unavailable，表明服务器暂时处于超负载或正在停机维护，无法处理请求</td>
 		</tr>
 	</table>
-	<table>
-		<tr bgcolor="#eee">
-			<th>2XX</th>
-			<th>成功（这系列表明请求被正常处理了）</th>
-		</tr>
-		<tr>
-			<td>200</td>
-			<td>OK，表示从客户端发来的请求在服务器端被正确处理</td>
-		</tr>
-		<tr>
-			<td>204</td>
-			<td>No content，表示请求成功，但响应报文不含实体的主体部分</td>
-		</tr>
-		<tr>
-			<td>206</td>
-			<td>Partial Content，进行范围请求成功</td>
-		</tr>
-			<tr>
-			<td>302</td>
-			<td>found，临时性重定向，表示资源临时被分配了新的 URL</td>
-		</tr>
-				<tr>
-			<td>302</td>
-			<td>found，临时性重定向，表示资源临时被分配了新的 URL</td>
-		</tr>
-		<tr>
-			<td>302</td>
-			<td>found，临时性重定向，表示资源临时被分配了新的 URL</td>
-		</tr>
-		<tr>
-			<td>302</td>
-			<td>found，临时性重定向，表示资源临时被分配了新的 URL</td>
-		</tr>
-		<tr>
-			<td>302</td>
-			<td>found，临时性重定向，表示资源临时被分配了新的 URL</td>
-		</tr>
-	</table>
 </cneter>
+
+
